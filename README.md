@@ -1,6 +1,6 @@
 ## This is my learning Journey  
 
-What you will see here is basically gibbersih.  
+What you will see here is basically gibberish.  
 So do not take any of this seriously.  
 
 **However**, I plan on developing these projects as I dive deeper.  
