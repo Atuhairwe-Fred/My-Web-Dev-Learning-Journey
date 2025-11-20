@@ -1,0 +1,17 @@
+div {
+    color: blueviolet; /* div selects all div elements in the html file*/
+}
+.alert-text {
+    color: red; /*this selects a class using a period(.) at the start*/
+}
+#title {
+    background-color: rgb(255, 251, 0); /*this selects an id using # at the start*/
+}
+
+/*To call everything, use a universal selector (*)....*/
+.subsection.header {
+    color: red;
+}
+.subsection.preview {
+    color: blue;
+}
